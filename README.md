@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Spam & Ham SMS Classifier</h1>
-  <img width="480" height="280" src="https://github.com/hitkalariya/Spam-and-Ham-text-classifier/assets/73955220/8b59b9dc-366e-4459-bcc2-d818238bf033">
 </div>
 
 ## Overview
