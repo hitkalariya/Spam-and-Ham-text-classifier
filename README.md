@@ -39,23 +39,6 @@ This project is an end-to-end solution for classifying SMS messages as spam or h
 8. **Deployment**
     - Integrate the trained model into an application to classify new SMS messages in real time.
 
----
-
-## Visual Workflow
-
-<div align="center">
-  <img width="360" height="228" src="https://github.com/hitkalariya/Spam-and-Ham-text-classifier/assets/73955220/e8c83f0d-95b8-482f-81f2-f75effb7e7dc">
-  <img width="360" height="228" src="https://github.com/hitkalariya/Spam-and-Ham-text-classifier/assets/73955220/cc630b86-55d7-4b37-aa8e-40eed385f680">
-  <img width="360" height="228" src="https://github.com/hitkalariya/Spam-and-Ham-text-classifier/assets/73955220/652fd612-63b0-4e6e-aa5e-398597578674">
-  <img width="360" height="228" src="https://github.com/hitkalariya/Spam-and-Ham-text-classifier/assets/73955220/c6b5a4ec-994e-48e5-a4d5-b3a9a7a26838">
-  <img width="360" height="228" src="https://github.com/hitkalariya/Spam-and-Ham-text-classifier/assets/73955220/ed0cf225-3aa8-4a84-8c52-adc8001dcde4">
-  <img width="360" height="228" src="https://github.com/hitkalariya/Spam-and-Ham-text-classifier/assets/73955220/fb9f3ed9-9183-4aa9-a427-e658582d0aaf">
-  <img width="360" height="228" src="https://github.com/hitkalariya/Spam-and-Ham-text-classifier/assets/73955220/f8388a82-95ec-4ed1-8102-65a8171ce54a">
-  <img width="360" height="228" src="https://github.com/hitkalariya/Spam-and-Ham-text-classifier/assets/73955220/d555ce8a-be45-44ba-98a6-731de3cbbd47">
-</div>
-
----
-
 ## How to Run
 
 1. Open the `SMS Text Classification.ipynb` notebook in Jupyter or VS Code.
